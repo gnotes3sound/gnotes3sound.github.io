@@ -9,4 +9,29 @@ N予備校プログラミング入門WEBアプリ　19・20年度受講生
 
 - gnotes-N
 - Japan
-- 得意領域（Web開発、サーバー運用など）　ー？
+- 得意領域（）　ー？
+
+# Skills
+- OS（Windows,Ubuntuなど）
+- Languages（JavaScriptなど）
+- Engine,Frameworks (Node.js, Expressなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+- 資格、免許（情報処理技術者、LPICなど）
+
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub](GitHubのURL)
+- [Qiita](QiitaのURL)
+- 作った作品
+  - [作品1](作品1のURL)
+  - [作品2](作品2のURL)
+
+# Contact
+連絡先を書きましょう。
+- [Twitter]()
+- [LinkedIn]()
+- [Mail]()
+
+# History
+学歴、職歴、アルバイト、インターン経験など。
+
